@@ -6,6 +6,7 @@ public class GitTest {
 		// TODO Auto-generated method stub
 		System.out.println("git test");
 		System.out.println("깃테스트");
+		System.out.println("깃테스트2");
 	}
 
 }
