@@ -12,7 +12,7 @@ public class SortTest {
 
 	}
 	private static void sort(int[] nums,int orderby){
-		//占占占占占占ㅇㅅㅇ占占占占占占
+		//占占占占占ㅇㅅㅇ占占占占占
 	}
 
 }
